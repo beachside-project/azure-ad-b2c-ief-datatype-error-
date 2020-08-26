@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPolicyRestApiSamples", "CustomPolicyRestApiSamples\CustomPolicyRestApiSamples.csproj", "{6AE9F866-BD67-4075-8995-8D55663378CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AE9F866-BD67-4075-8995-8D55663378CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AE9F866-BD67-4075-8995-8D55663378CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AE9F866-BD67-4075-8995-8D55663378CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AE9F866-BD67-4075-8995-8D55663378CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F2C77E2-2AB7-4500-83AA-17752D5F26C8}
+	EndGlobalSection
+EndGlobal
